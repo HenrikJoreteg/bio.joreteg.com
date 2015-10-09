@@ -6,7 +6,7 @@ export default class Bio extends Component {
       <main className='container'>
         <header role='banner'>
           <h1>Henrik Joreteg</h1>
-          <p>Definitive source for bio and pics for conferences, etc.</p>
+          <p>Bio and pics for conferences, etc.</p>
         </header>
 
         <dl>
@@ -40,6 +40,9 @@ export default class Bio extends Component {
             </figure>
           </a>
         </p>
+
+        <h2>Short Bio:</h2>
+        <p>Open Sourcer, blogger, author, and educator. Made [Ampersand.js](http://ampersandjs.com/), [Human JavaScript](http://read.humanjavascript.com/), [Talky.io](https://talky.io/), and [SimpleWebRTC](http://simplewebrtc.com/).</p>
 
         <h2>Bio:</h2>
         <p>Henrik Joreteg is a JavaScript developer, author, speaker, and educator.</p>
