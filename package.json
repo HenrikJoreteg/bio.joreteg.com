@@ -39,8 +39,6 @@
   },
   "scripts": {
     "build": "webpack",
-    "deploy": "surge -p public -d bio.joreteg.com",
-    "start": "webpack-dev-server",
-    "yolo": "npm run build && npm run deploy"
+    "start": "webpack-dev-server"
   }
 }

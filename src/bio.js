@@ -19,23 +19,23 @@ export default class Bio extends Component {
         </dl>
 
         <p>
-          <a href='http://static.joreteg.com/henrik_large.jpg'>
+          <a href='https://static.joreteg.com/henrik_large.jpg'>
             <figure className='media-outlined'>
-              <img width='200' height='200' src='http://static.joreteg.com/henrik_large.jpg' />
+              <img width='200' height='200' src='https://static.joreteg.com/henrik_large.jpg' />
               <figcaption>Large 1200 x 1200</figcaption>
             </figure>
           </a>
 
-          <a href='http://static.joreteg.com/medium.jpg'>
+          <a href='https://static.joreteg.com/medium.jpg'>
             <figure className='media-outlined'>
-              <img width='150' height='150' src='http://static.joreteg.com/henrik_medium.jpg' />
+              <img width='150' height='150' src='https://static.joreteg.com/henrik_medium.jpg' />
               <figcaption>Medium 600 x 600</figcaption>
             </figure>
           </a>
 
-          <a href='http://static.joreteg.com/henrik_small.jpg'>
+          <a href='https://static.joreteg.com/henrik_small.jpg'>
             <figure className='media-outlined'>
-              <img width='100' height='100' src='http://static.joreteg.com/henrik_small.jpg' />
+              <img width='100' height='100' src='https://static.joreteg.com/henrik_small.jpg' />
               <figcaption>Small 150 x 150</figcaption>
             </figure>
           </a>
