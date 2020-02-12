@@ -59,33 +59,33 @@ export default class Bio extends Component {
           </a>
         </p>
 
-        <h2>Short Bio:</h2>
-        <p>
-          Progressive Web App developer, consultant, author, and educator. I
-          believe the Web is the future of mobile and IoT.
-        </p>
-
         <h2>Bio:</h2>
         <p>
-          Henrik Joreteg is a JavaScript developer, consultant, author, speaker,
-          and educator.
+          Henrik Joreteg is an entrepreneur and renowned JavaScript developer.
+          He's architected and built web applications for Fortune 500 companies
+          and has started several of his own ventures.
         </p>
         <p>
-          He does{" "}
+          He's currently consulting Walmart and developing{" "}
+          <a href="https://anesthesiacharting.com">AnesthesiaCharting.com</a>{" "}
+          with his business partner{" "}
+          <a href="https://www.coulterdentistry.com/">Travis Coulter</a>. He
+          does{" "}
           <a href="http://consulting.joreteg.com/">independent contracting</a>{" "}
           heavily focused on building{" "}
           <a href="http://stackoverflow.com/tags/progressive-web-apps/info">
             Progressive Web Apps
           </a>{" "}
-          with tools like Redux and React/Preact. Currently he&apos;s working
-          with Starbucks; before that{" "}
-          <a href="https://www.groovehq.com">Groove</a>, Microsoft, and others.
+          with tools like Redux and React/Preact. If you've ever signed into
+          your account on Starbucks.com you've used the app he architected and
+          helped them build.
         </p>
 
         <p>
-          Henrik is a huge proponent of the web as a mobile app platform and
-          wants to help developers push it to the next level. To that end, you
-          may have seen his blog posts on topics such as{" "}
+          Henrik is a huge proponent of the web as a mobile app platform with a
+          special interest in using it to improve healthcare. He wants to help
+          developers push the web to the next level. To that end, you may have
+          seen his blog posts on topics such as{" "}
           <a href="https://joreteg.com/blog/why-i-switched-to-android">
             abandoning iOS for the sake of the web
           </a>{" "}
