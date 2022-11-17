@@ -17,7 +17,7 @@
     "babel-register": "6.26.0",
     "css-loader": "0.28.7",
     "file-loader": "1.0.0",
-    "hjs-webpack": "9.1.0",
+    "hjs-webpack": "9.2.0",
     "json-loader": "0.5.7",
     "postcss-loader": "2.0.6",
     "react": "15.6.1",
